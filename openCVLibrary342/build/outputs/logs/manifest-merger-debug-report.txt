@@ -1,0 +1,29 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\Rabbil Exeecise\OpenCvApplicationTwo\openCVLibrary342\src\main\AndroidManifest.xml:2:1-6:12
+INJECTED from E:\Rabbil Exeecise\OpenCvApplicationTwo\openCVLibrary342\src\main\AndroidManifest.xml:2:1-6:12
+INJECTED from E:\Rabbil Exeecise\OpenCvApplicationTwo\openCVLibrary342\src\main\AndroidManifest.xml:2:1-6:12
+	package
+		ADDED from E:\Rabbil Exeecise\OpenCvApplicationTwo\openCVLibrary342\src\main\AndroidManifest.xml:3:7-27
+		INJECTED from E:\Rabbil Exeecise\OpenCvApplicationTwo\openCVLibrary342\src\main\AndroidManifest.xml
+		INJECTED from E:\Rabbil Exeecise\OpenCvApplicationTwo\openCVLibrary342\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from E:\Rabbil Exeecise\OpenCvApplicationTwo\openCVLibrary342\src\main\AndroidManifest.xml:5:7-34
+	xmlns:android
+		ADDED from E:\Rabbil Exeecise\OpenCvApplicationTwo\openCVLibrary342\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from E:\Rabbil Exeecise\OpenCvApplicationTwo\openCVLibrary342\src\main\AndroidManifest.xml:4:7-33
+uses-sdk
+INJECTED from E:\Rabbil Exeecise\OpenCvApplicationTwo\openCVLibrary342\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\Rabbil Exeecise\OpenCvApplicationTwo\openCVLibrary342\src\main\AndroidManifest.xml
+INJECTED from E:\Rabbil Exeecise\OpenCvApplicationTwo\openCVLibrary342\src\main\AndroidManifest.xml
+INJECTED from E:\Rabbil Exeecise\OpenCvApplicationTwo\openCVLibrary342\src\main\AndroidManifest.xml
+INJECTED from E:\Rabbil Exeecise\OpenCvApplicationTwo\openCVLibrary342\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from E:\Rabbil Exeecise\OpenCvApplicationTwo\openCVLibrary342\src\main\AndroidManifest.xml
+		ADDED from E:\Rabbil Exeecise\OpenCvApplicationTwo\openCVLibrary342\src\main\AndroidManifest.xml
+		INJECTED from E:\Rabbil Exeecise\OpenCvApplicationTwo\openCVLibrary342\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\Rabbil Exeecise\OpenCvApplicationTwo\openCVLibrary342\src\main\AndroidManifest.xml
+		ADDED from E:\Rabbil Exeecise\OpenCvApplicationTwo\openCVLibrary342\src\main\AndroidManifest.xml
+		INJECTED from E:\Rabbil Exeecise\OpenCvApplicationTwo\openCVLibrary342\src\main\AndroidManifest.xml
